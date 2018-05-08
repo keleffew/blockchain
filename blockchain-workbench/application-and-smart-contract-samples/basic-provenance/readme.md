@@ -5,10 +5,11 @@ for Azure Blockchain Workbench
 Overview 
 ---------
 
- 
 
 The Basic Provenance application expresses a workflow for a simple record of
-ownership or responsibility.  The state transition diagram below shows the
+ownership or responsibility.  
+
+The state transition diagram below shows the
 interactions among the states in this workflow. 
 
 Application Roles 
